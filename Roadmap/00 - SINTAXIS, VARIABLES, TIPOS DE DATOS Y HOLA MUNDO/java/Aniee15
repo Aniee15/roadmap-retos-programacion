@@ -1,0 +1,25 @@
+// Esto es un comentario de una linea
+// pagina oficial de java https://www.java.com/es/
+
+/* De esta manera 
+* se pueden comentar mas
+* de una linea
+*/
+
+/* pagina oficial de java:
+* https://www.java.com/es/
+*/
+
+// variables en java (ejemplos)
+int num = 1; // variable entero
+const= 5; // constante de un numero entero
+
+//variables de datos primitivos
+byte edad = 10; // solo se pueden almacenar numeros del -128 al 127
+int = 2; variable de un entero
+float = 1.5; variable de un numero decimal
+// variable de un texto
+//variable de un boleano (true)
+//variable de un boleano (false)
+
+
