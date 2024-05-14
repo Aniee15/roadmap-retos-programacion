@@ -1,0 +1,34 @@
+//esto es un comentario
+//pagina oficial de java https://www.java.com/es/
+
+/* de esta manera 
+* se pueden comentar
+*varias lineas de codigo
+*/
+//variable de tipo entero
+int num = 2;
+// constante (valor no varia)
+const num = 2;
+
+// tipos de datos primitivos en java
+int num = 2; //numero entero
+String name = ana; //cadena de texto
+float num = 1.56; //numero decimal
+byte b = 44; // numero desde el -127 al 128
+short num = 3950; // numero mas grandes que el byte
+long num = 473538599; // numero mas largo aun, siempre y cuando sean enteros.
+double num = 74738888864546473; numero mas grande que "long"
+boolean = true; // boleano verdadero
+boolean = false; // boleano falso
+
+public class saludo_inicial {
+    public static void main(String[] args) {
+        System.out.println("Hola java);
+    }
+}
+
+
+
+
+
+
